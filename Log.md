@@ -9,9 +9,14 @@
 
 ## Day 1 : July 11, 2018
 
-**Today's Progress** : Complete most of Topic 1 in my [Learning Plan](https://github.com/blynotes/100DaysOfML_2018/blob/master/LearningPlan.md).  Build a feedforward network with backpropagation using NumPy
+**Today's Progress** : 
+- Complete most of Topic 1 in my [Learning Plan](https://github.com/blynotes/100DaysOfMLCode_2018/blob/master/LearningPlan.md).
+- Build a basic feedforward network with backpropagation using NumPy. This is based off of [Trask's Neural Network in 11 Lines of Python](https://iamtrask.github.io/2015/07/12/basic-python-network/)
+- Modify my basic feedforward network to handle dynamic number of layers.
 
-**Thoughts** : It was a good refresher. I am feeling more comfortable with NumPy.
+**Thoughts** : 
+- It was a good refresher. I am feeling more comfortable with NumPy.
+- I will move onto Topic 2 tomorrow and slowly continue reading the Deep Learning Book Part 1.
 
 **Link of Work:**
 - [Commit of basic FeedForward Network - Fixed number of layers](https://github.com/blynotes/NumPy-FeedForward-Network/commit/8c8dd48feed2ae2aff5e715a5ac770813f2154a2)
