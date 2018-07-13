@@ -22,8 +22,24 @@
 - [Commit of basic FeedForward Network - Fixed number of layers](https://github.com/blynotes/NumPy-FeedForward-Network/commit/8c8dd48feed2ae2aff5e715a5ac770813f2154a2)
 - [Commit of FeedForward Network - Dynamic number of layers](https://github.com/blynotes/NumPy-FeedForward-Network/commit/80fb5c8726fa3246be89825931f829283e23adb9)
 
-<!--
+
 ## Day 2 : July 12, 2018
+
+**Today's Progress** :
+- Install Tensorflow on laptop
+- Explore Tensorboard
+- Read CS20 Tensorflow overview
+- Read CS20 Tensorflow Operations
+
+**Thoughts** :
+- Tensorflow looks powerful.  I'm looking forward to writing some test programs tomorrow and playing with Tensorboard more.
+
+**Link of Work:**
+- None today
+
+
+<!--
+## Day 3 : July 13, 2018
 
 **Today's Progress** : TODO
 
