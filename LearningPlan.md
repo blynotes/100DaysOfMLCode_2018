@@ -23,9 +23,15 @@
   - [X] Read Tensorflow operations
 - [ ] Watch Siraj's intro to tensorflow playlist [here](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
 - [ ] Read Keras Example code to quickly understand its structure [here](https://keras.io/getting-started/sequential-model-guide/)
-- [ ] Write out a simple image classifier using Tensorflow
-- [ ] Write out a simple image classifier using Keras
+- [X] Write out a simple image classifier using Tensorflow
+- [X] Write out a simple image classifier using Keras
 - [ ] Write out a simple image classifier using PyTorch
+- [ ] Go through Tensorflow Keras tutorials [here](https://www.tensorflow.org/tutorials/keras/)
+  - [X] Basic Classification Tutorial
+  - [X] Text Classification Tutorial
+  - [ ] Regression Tutorial
+  - [ ] Overfitting and Underfitting Tutorial
+  - [ ] Saving and Loading Models Tutorial
 
 ## Topic 3 - Convolutional Networks
 
