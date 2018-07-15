@@ -38,13 +38,43 @@
 - None today
 
 
-<!--
 ## Day 3 : July 13, 2018
 
-**Today's Progress** : TODO
+**Today's Progress** : 
+- Read CS20 (Tensorflow for Deep Learning Research) lectures and slides
 
-**Thoughts** : TODO
+**Thoughts** : 
+- There is a lot of information in these slides.  I will start to play with Tensorflow and then come back in a few weeks to understand them better.
 
-**Link of Work:**   TODO [Commit](https://github.com/LordSomen/100DaysOfML/commit/a09148256d1561f5f9e5544ff3f64aacf0d24f43)
+**Link of Work:**
+- None today
+
+
+## Day 4 : July 14, 2018
+
+**Today's Progress** : 
+- Completed 2 tutorials on the Tensorflow website:
+  - Basic Classification Tutorial
+  - Text Classification Tutorial
+
+**Thoughts** : 
+- It is very helpful to follow the tutorials.  It helps me understand how to write Tensorflow and Keras code.
+
+**Link of Work:**   
+- Basic Classification Tutorial [Commit](https://github.com/blynotes/Tensorflow-Tutorials/blob/master/1-FirstNN-BasicClassification.ipynb)
+- Text Classification Tutorial [Commit](https://github.com/blynotes/Tensorflow-Tutorials/blob/master/2-ClassifyMovieReviews.ipynb)
+
+
+<!--
+## Day 5 : July 15, 2018
+
+**Today's Progress** : 
+- TODO
+
+**Thoughts** : 
+- TODO
+
+**Link of Work:**   
+- TODO [Commit](https://github.com/LordSomen/100DaysOfML/commit/a09148256d1561f5f9e5544ff3f64aacf0d24f43)
 
 -->
