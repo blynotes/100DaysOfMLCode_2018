@@ -1,5 +1,6 @@
 ## Topic 0 - Build Deep Learning Computer
 
+- [X] Research remaining parts.
 - [ ] Finish buying parts.
 - [ ] Build computer.
 
@@ -29,7 +30,7 @@
 - [ ] Go through Tensorflow Keras tutorials [here](https://www.tensorflow.org/tutorials/keras/)
   - [X] Basic Classification Tutorial
   - [X] Text Classification Tutorial
-  - [ ] Regression Tutorial
+  - [X] Regression Tutorial
   - [ ] Overfitting and Underfitting Tutorial
   - [ ] Saving and Loading Models Tutorial
 
