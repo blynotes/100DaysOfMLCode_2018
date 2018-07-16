@@ -65,8 +65,22 @@
 - Text Classification Tutorial [Commit](https://github.com/blynotes/Tensorflow-Tutorials/blob/master/2-ClassifyMovieReviews.ipynb)
 
 
-<!--
 ## Day 5 : July 15, 2018
+
+**Today's Progress** : 
+- Finished Tensorflow Regression tutorial
+- Researched hard drives, RAM, motherboard, and case for deep learning PC
+
+**Thoughts** : 
+- Hoping to finish picking parts for deep learning PC and order them tomorrow.
+
+**Link of Work:**   
+- Regression Tutorial [Commit](https://github.com/blynotes/Tensorflow-Tutorials/blob/master/3-BostonHousingPrices.ipynb)
+
+
+
+<!--
+## Day 6 : July 16, 2018
 
 **Today's Progress** : 
 - TODO
