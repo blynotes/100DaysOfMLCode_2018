@@ -78,9 +78,70 @@
 - Regression Tutorial [Commit](https://github.com/blynotes/Tensorflow-Tutorials/blob/master/3-BostonHousingPrices.ipynb)
 
 
+## Day 6 : July 16, 2018
+
+**Today's Progress** : 
+- Picked out almost all of my Deep Learning computer's parts.
+- Watched Siraj Raval's [Reinforcement Learning for Stock Prediction Video](https://www.youtube.com/watch?v=05NqKJ0v7EE)
+
+**Thoughts** : 
+- Hope to pick out the rest of the computer parts tomorrow.
+
+**Link of Work:**   
+- None today
+
+
+## Day 7 : July 17, 2018
+
+**Today's Progress** : 
+- Found all parts for Deep Learning PC. I was planning on using fans to cool, but realized I needed to do water cooling to sufficiently cool the 2 Nvidia Titan XP Collector's Edition graphics cards.
+
+**Thoughts** : 
+- I will begin researching water cooling tomorrow.
+
+**Link of Work:**   
+- [Current list of parts... it may change as I bring in watercooling](https://pcpartpicker.com/list/Z7kDJ8)
+
+
+## Day 8 : July 18, 2018
+
+**Today's Progress** : 
+- Researched watercooling.  Found other people that watercooled Titan XP Collector's Editions and began researching their parts.
+- Found [EK Fluid Gaming parts](https://www.ekfluidgaming.com/)
+- Found an [interesting article saying that evolutionary algorithms are able to outperform deep-learning at video games](https://www.technologyreview.com/s/611568/evolutionary-algorithm-outperforms-deep-learning-machines-at-video-games/)
+
+**Thoughts** : 
+- The concept of watercooling is simple, I just need to determine exactly which parts I need to sufficiently cool my PC.
+- I will write a simple evolution algorithm tomorrow
+
+**Link of Work:**   
+- None today
+
+
+## Day 9 : July 19, 2018
+
+**Today's Progress** : 
+- Completed a genetic algorithm to solve the Traveling Salesman Problem.
+- Emailed EK Fluid Gaming's help desk to find out what components I needed to cool my Deep Learning PC. After talking with them, I determined I needed:
+  1. [A360G kit (I won't use the pump that comes with it though)](https://www.ekfluidgaming.com/ek-kit-a360g)
+  2. [D5 pump](https://www.ekfluidgaming.com/ek-acr-revo-d5-mx)
+  3. [EK-AC GEFORCE GTX Water Block](https://www.ekfluidgaming.com/ek-ac-titan-x)
+  4. [Vertical pump mount (to mount the pump combo in my case to a fan or radiator so I don't have ot drill holes)](https://www.ekfluidgaming.com/ek-uni-pump-bracket-120mm-fan-vertical)
+  5. [Multi-GPU kit](https://www.ekfluidgaming.com/ek-ac-gpu-connector-kit)
+  6. [EK-FG 360 Expansion Pack to get a second radiator (one radiator would not sufficiently cool the CPU and 2 GPUs)](https://www.ekfluidgaming.com/ek-fg-360-expansion-pack)
+  7. [Colored fluid (if I want it). The kit comes with clear fluid](https://www.ekfluidgaming.com/parts/)
+
+**Thoughts** : 
+- The genetic algorithm was interesting to implement. I plan to revisit this more after I do some reinforcement learning to compare the results.
+- The help desk at EK Fluid Gaming was very helpful and I am understanding better the parts needed and what they do.
+- I need to find a case that will fit my motherboard (it is SSI CEB form factor... I may try to find a different motherboard as well), 2 radiators, and all of the watercooling components.
+
+**Link of Work:**   
+- Genetic Algorithm - Traveling Salesman Problem [Commit](https://github.com/blynotes/GeneticAlgorithmTSP/blob/master/Traveling%20Salesman%20-%20Genetic%20Algorithm.ipynb)
+
 
 <!--
-## Day 6 : July 16, 2018
+## Day 10 : July 20, 2018
 
 **Today's Progress** : 
 - TODO
