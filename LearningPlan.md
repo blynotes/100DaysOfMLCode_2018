@@ -75,6 +75,11 @@
 
 - [ ] Use AI techniques to play minigames
 
-## Topic 8 - TBD
+## Topic 8 - Genetic Algorithms
+
+- [X] Implement a basic Genetic algorithm
+- [ ] [Try to recreate some of the results from "Evolving simple programs for playing Atari games"](https://arxiv.org/abs/1806.05695)
+
+## Topic 9 - TBD
 
 - [ ] To be determined
