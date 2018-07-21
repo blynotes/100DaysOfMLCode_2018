@@ -140,8 +140,24 @@
 - Genetic Algorithm - Traveling Salesman Problem [Commit](https://github.com/blynotes/GeneticAlgorithmTSP/blob/master/Traveling%20Salesman%20-%20Genetic%20Algorithm.ipynb)
 
 
-<!--
 ## Day 10 : July 20, 2018
+
+**Today's Progress** : 
+- My Jupyter Notebook stopped working, so I had to troubleshoot and ended up re-installing it.
+- Finished Tensorflow tutorial on Overfitting and Underfitting
+- Watched YouTube videos by [Steve Brunton on using Genetic Programming to optimize the structure and parameters of an effective control law](https://www.youtube.com/watch?v=CZE86BPDqCI)
+
+**Thoughts** : 
+- I plan to finish the Tensorflow tutorials this weekend, and start something larger before the end of the weekend.
+- I want to play with Genetic Algorithms more on future projects.  I find them really interesting.
+- I also plan to finalize my computer parts (hopefully finding a computer case tomorrow) and order the parts before Monday.
+
+**Link of Work:**   
+- Tensorflow Tutorial - Overfitting and Underfitting [Commit](https://github.com/blynotes/Tensorflow-Tutorials/blob/master/4-Overfitting%20and%20Underfitting.ipynb)
+
+
+<!--
+## Day 11 : July 21, 2018
 
 **Today's Progress** : 
 - TODO
