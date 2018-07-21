@@ -31,7 +31,7 @@
   - [X] Basic Classification Tutorial
   - [X] Text Classification Tutorial
   - [X] Regression Tutorial
-  - [ ] Overfitting and Underfitting Tutorial
+  - [X] Overfitting and Underfitting Tutorial
   - [ ] Saving and Loading Models Tutorial
 
 ## Topic 3 - Convolutional Networks
