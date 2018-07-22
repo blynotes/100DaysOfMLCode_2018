@@ -156,8 +156,23 @@
 - Tensorflow Tutorial - Overfitting and Underfitting [Commit](https://github.com/blynotes/Tensorflow-Tutorials/blob/master/4-Overfitting%20and%20Underfitting.ipynb)
 
 
-<!--
 ## Day 11 : July 21, 2018
+
+**Today's Progress** : 
+- Finished the Tensorflow tutorial on saving and loading models.
+- Watched [Siraj Raval's Intro to AI for Video Games (Reinforcement Learning)]()
+- Found a great overview of [Reinforcement Learning concepts by Emmanuel Ameisen](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8)
+- Emmanuel linked to an [amazing set of tutorials by Arthur Juliani](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+
+**Thoughts** : 
+- I look forward to going through Emmanuel's and Arthur's articles in more detail and understand Reinforcement Learning at a deeper level.
+
+**Link of Work:**   
+- Tensorflow - Save and Restore Models [Commit](https://github.com/blynotes/Tensorflow-Tutorials/blob/master/5-Save%20and%20Restore%20Models.ipynb)
+
+
+<!--
+## Day 12 : July 22, 2018
 
 **Today's Progress** : 
 - TODO
