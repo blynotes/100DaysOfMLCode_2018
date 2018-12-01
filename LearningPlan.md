@@ -1,8 +1,8 @@
 ## Topic 0 - Build Deep Learning Computer
 
 - [X] Research remaining parts.
-- [ ] Finish buying parts.
-- [ ] Build computer.
+- [X] Finish buying parts.
+- [X] Build computer.
 
 ## Topic 1 - Feedforward Neural Networks and Backpropagation
 
@@ -27,12 +27,12 @@
 - [X] Write out a simple image classifier using Tensorflow
 - [X] Write out a simple image classifier using Keras
 - [ ] Write out a simple image classifier using PyTorch
-- [ ] Go through Tensorflow Keras tutorials [here](https://www.tensorflow.org/tutorials/keras/)
+- [X] Go through Tensorflow Keras tutorials [here](https://www.tensorflow.org/tutorials/keras/)
   - [X] Basic Classification Tutorial
   - [X] Text Classification Tutorial
   - [X] Regression Tutorial
   - [X] Overfitting and Underfitting Tutorial
-  - [ ] Saving and Loading Models Tutorial
+  - [X] Saving and Loading Models Tutorial
 
 ## Topic 3 - Convolutional Networks
 
